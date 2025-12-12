@@ -1,0 +1,14 @@
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\bin\Debug\net10.0\ShadowOfEldoria.exe
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\bin\Debug\net10.0\ShadowOfEldoria.deps.json
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\bin\Debug\net10.0\ShadowOfEldoria.runtimeconfig.json
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\bin\Debug\net10.0\ShadowOfEldoria.dll
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\bin\Debug\net10.0\ShadowOfEldoria.pdb
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ShadowOfEldoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ShadowOfEldoria.AssemblyInfoInputs.cache
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ShadowOfEldoria.AssemblyInfo.cs
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ShadowOfEldoria.csproj.CoreCompileInputs.cache
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ShadowOfEldoria.dll
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\refint\ShadowOfEldoria.dll
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ShadowOfEldoria.pdb
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ShadowOfEldoria.genruntimeconfig.cache
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ref\ShadowOfEldoria.dll
