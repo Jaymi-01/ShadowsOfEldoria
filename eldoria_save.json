@@ -1,0 +1,180 @@
+{
+  "Player": {
+    "Name": "Jayyy",
+    "Level": 4,
+    "Health": 100,
+    "MaxHealth": 100,
+    "Mana": 130,
+    "MaxMana": 130,
+    "AttackPower": 20,
+    "Defense": 26,
+    "Agility": 10,
+    "Experience": 180,
+    "Class": 1,
+    "Inventory": [
+      {
+        "Name": "Wooden Staff",
+        "Rarity": 0,
+        "AttackBonus": 3,
+        "DefenseBonus": 0,
+        "HealthBonus": 0,
+        "Slot": 0
+      },
+      {
+        "Name": "Heavy Gauntlets",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 3
+      },
+      {
+        "Name": "Mythic Helmet",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 1
+      },
+      {
+        "Name": "Mythic Chestplate",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 2
+      },
+      {
+        "Name": "Vicious Gauntlets",
+        "Rarity": 0,
+        "AttackBonus": 0,
+        "DefenseBonus": 3,
+        "HealthBonus": 0,
+        "Slot": 3
+      },
+      {
+        "Name": "Heavy Gauntlets",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 3
+      },
+      {
+        "Name": "Arcane Leggings",
+        "Rarity": 0,
+        "AttackBonus": 0,
+        "DefenseBonus": 3,
+        "HealthBonus": 0,
+        "Slot": 4
+      },
+      {
+        "Name": "Heavy Gauntlets",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 3
+      },
+      {
+        "Name": "Mythic Leggings",
+        "Rarity": 0,
+        "AttackBonus": 0,
+        "DefenseBonus": 3,
+        "HealthBonus": 0,
+        "Slot": 4
+      },
+      {
+        "Name": "Mythic Chestplate",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 2
+      },
+      {
+        "Name": "Heavy Chestplate",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 2
+      },
+      {
+        "Name": "Heavy Leggings",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 4
+      },
+      {
+        "Name": "Arcane Chestplate",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 2
+      }
+    ],
+    "Abilities": [
+      {
+        "Name": "Fireball",
+        "ManaCost": 25,
+        "BaseDamage": 30,
+        "RequiredClass": 1,
+        "RequiredLevel": 1,
+        "CritChanceBonus": 0,
+        "IsHealing": false
+      },
+      {
+        "Name": "Heal",
+        "ManaCost": 10,
+        "BaseDamage": -15,
+        "RequiredClass": 1,
+        "RequiredLevel": 1,
+        "CritChanceBonus": 0,
+        "IsHealing": true
+      }
+    ],
+    "Equipment": {
+      "Weapon": {
+        "Name": "Wooden Staff",
+        "Rarity": 0,
+        "AttackBonus": 3,
+        "DefenseBonus": 0,
+        "HealthBonus": 0,
+        "Slot": 0
+      },
+      "Head": {
+        "Name": "Mythic Helmet",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 1
+      },
+      "Chest": {
+        "Name": "Mythic Chestplate",
+        "Rarity": 1,
+        "AttackBonus": 0,
+        "DefenseBonus": 6,
+        "HealthBonus": 0,
+        "Slot": 2
+      },
+      "Hands": null,
+      "Legs": {
+        "Name": "Arcane Leggings",
+        "Rarity": 0,
+        "AttackBonus": 0,
+        "DefenseBonus": 3,
+        "HealthBonus": 0,
+        "Slot": 4
+      },
+      "Feet": null
+    }
+  },
+  "CurrentStoryChapter": 1,
+  "LastCheckpointName": "Chapter 1 Checkpoint",
+  "ChapterCompletionStatus": {}
+}
