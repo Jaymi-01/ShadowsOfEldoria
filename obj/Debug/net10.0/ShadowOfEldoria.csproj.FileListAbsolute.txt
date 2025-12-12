@@ -12,3 +12,4 @@ C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\refint\ShadowOfEld
 C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ShadowOfEldoria.pdb
 C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ShadowOfEldoria.genruntimeconfig.cache
 C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ref\ShadowOfEldoria.dll
+C:\Users\Jaymi\source\repos\ShadowOfEldoria\obj\Debug\net10.0\ShadowOfEldoria.sourcelink.json

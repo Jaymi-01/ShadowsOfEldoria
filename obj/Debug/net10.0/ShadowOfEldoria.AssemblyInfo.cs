@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShadowOfEldoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8cbe94b18c434476833cae70090fd3961858e9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShadowOfEldoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShadowOfEldoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
